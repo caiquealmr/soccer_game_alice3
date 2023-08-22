@@ -19,7 +19,7 @@ Para encontrar o perfil dos demais participantes acesse os seguintes links.
   
 ## O projeto
 
-Pops's Soccer é um jogo de futebol que consiste em uma mecânica simples, o jogador controla seu personagem com as teclas "W", "A", "S", "D" para Frente, Esquerda, Trás e Direita respectivamente, também é possivel reiniciar a fase apertando a tecla "R" se for necessário. Quando o personagem colide com a bola um numero de 0 a 9 é escolhido, este numero pertence a um objeto invisivel, então a bola é direcionada para o objeto. Caso o numero selecionado estiver entre 0 e 5 o resultado será a bola dentro do gol, mas se estiver entre 6 e 9 o seultado será bola fora.
+Pops's Soccer é um jogo de futebol que consiste em uma mecânica simples, o jogador controla seu personagem com as teclas "W", "A", "S", "D" para Frente, Esquerda, Trás e Direita respectivamente, também é possivel reiniciar a fase apertando a tecla "R" se for necessário. Quando o personagem colide com a bola um numero de 0 a 9 é escolhido, este numero pertence a um objeto invisivel, então a bola é direcionada para o objeto. Caso o numero selecionado estiver entre 0 e 4 o resultado será a bola dentro do gol, mas se estiver entre 5 e 9 o seultado será bola fora.
 
 ## Software escolhido para o desenvolvimento do projeto
 
