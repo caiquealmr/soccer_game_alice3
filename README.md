@@ -1,11 +1,11 @@
-#  Programação Orientada a Objeto I, Alice 3
+#  Programação Orientada a Objetos I, Alice 3
 
 * **Nome do Aluno:** Caíque Almeida Amaral
 * **Matrícula:** 202305874
 * **Turma:** SI2N
 * **Nome do Professor:** Vinicius Rosalen da Silva
 
-> Atividade Avaliativa Realizada na disciplina de Programação Orientada a Objeto I pelo curso de Sistemas de Informação na Universidade Vila Velha.
+> Atividade Avaliativa Realizada na disciplina de Programação Orientada a Objetos I pelo curso de Sistemas de Informação na Universidade Vila Velha.
 
 ## Participantes
 
